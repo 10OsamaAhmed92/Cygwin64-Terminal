@@ -14,7 +14,11 @@ Syntax highlighted code block
 # Header 1
 ## Header 2
 ### Header 3
-
+// Javascript code with syntax highlighting.
+var fun = function lang(l) {
+  dateformat.i18n = require('./lang/' + l)
+  return true;
+}
 - Bulleted
 - List
 
